@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Popular Movies</string>
     <string name="refresh">Refresh</string>
+    <string name="default_overview">In the near future, a weary Logan cares for an ailing Professor X in a hide out on the Mexican border. But Logan\'s attempts to hide from the world and his legacy are up-ended when a young mutant arrives, being pursued by dark forces.</string>
 </resources>
